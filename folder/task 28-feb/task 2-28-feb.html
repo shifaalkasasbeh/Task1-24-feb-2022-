@@ -1,42 +1,47 @@
 <!DOCTYPE html>
 <html> 
 <head>
-    <title>Exercise#3 registration </title>
+    <title>Exercise#3 registration form </title>
 
-    
 </head>
 <body>
-   <form>
-       <p>  registration form </p>
-<table border="1">
-   
-            
-    </th>
-    First name <input type="text" placeeholder = "First name"><br>
-    last name<input type="text" placeeholder = "last name"><br>
-
-    <td>
- femal <input type ="radio"  id="1" name ="gender">
-  mail<input type ="radio"  id="2" name ="gender">
-</td>
-        
-</form>
-
+<p>Registration Form </p>
+<fieldset>
+    <legend >  personal details</legend>
+<hr>
+<form>  
+    first name  <input type="text"  placeeholer ="text" id ="1" name="text">
+  <br><br>
+  last name  <input type="text"  placeeholer ="text" id ="2" name="text">
+  
+   <br><br>
+   email     <input type="email"  placeeholer ="email" id ="3" name="text">
+   </form>
    <br>
+  <form>
+  
+   gender:  <label for ="4"> femal </label> 
+   <input type ="radio"  id="4" name ="gender">
+   <label for ="5"> male </label> 
+   <input type ="radio"  id="5" name ="gender">
+  <br>
+  <br>
+  </form>
 
+</fieldset>
 
-
-</table>
-<td>
-<form> 
-    <select name ="city">
-        <opition value ="1"> amman </opition>
-        <opition value ="2"> irbed </opition>
-        <opition value ="1"> aqaba </opition>
-
-    </select>
-</td>
- </form>
+<fieldset>
+    <legend>city </legend>
+        <form>
+    
+                         city: <select name="city">
+               <option value="amman">amman </option>
+                 <option value="irbed">irbed </option>
+                 <option value="aqaba">aqaba </option>
+             </select>
+         </form>
+         <br>
+        </fieldset>
 
 </body>
 
