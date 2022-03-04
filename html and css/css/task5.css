@@ -1,0 +1,47 @@
+body{background-color: rgba(247, 246, 241, 0.671);
+
+}
+
+     h1,h2 {    text-transform: capitalize; }
+     
+     div { text-transform: capitalize;   
+  border:solid medium;
+  width: 60%;
+  height: 40%;
+  background-color: white;
+    }
+
+.a
+{ background-color: rgb(248, 173, 130); 
+text-transform: lowercase;
+}
+
+
+.b{background-color: rgb(251, 253, 141);
+    text-transform: lowercase;
+}
+
+
+
+.c{
+    color: black;
+    border:dotted red;
+      width: 80%;
+      height: 40%;
+     background-color: white;
+
+}
+
+.d{ 
+ 
+    border:solid black;
+  width: 60%;
+  height: 40%;
+  background-color: white;
+  
+}
+
+.e{
+
+   color: rgb(119, 43, 163);
+}

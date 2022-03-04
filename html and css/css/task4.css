@@ -1,0 +1,43 @@
+body{background-color: rgba(248, 244, 187, 0.671);
+
+}
+
+     h1,h2 {    text-transform: capitalize; }
+     
+     div {    text-transform: capitalize; 
+    
+  border:solid medium;
+  width: 60%;
+  height: 40%;
+ 
+  background-color: white;
+    }
+
+.a
+{ background-color: rgb(245, 125, 56);
+  text-transform: lowercase;
+}
+
+
+.b{background-color: rgb(247, 250, 59);
+  text-transform: lowercase;
+}
+
+.c{ 
+
+color: red;
+border:dotted;
+  width: 60%;
+  height: 40%;
+  background-color: white;
+}
+.d{
+    color: red;
+
+    border:dotted;
+      width: 80%;
+      height: 40%;
+      position: 50% 50%;
+     background-color: white;
+
+}
