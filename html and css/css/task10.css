@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(240, 243, 194);
+}
+
+h1{
+background-color: rgb(228, 228, 95);
+width: 80%;
+height: 100px;
+margin: 50px 100px 0 100px;
+}
+
+#div1{
+background-color: rgb(212, 206, 206);
+width:20%;
+height: 590px;
+float: right;
+margin: 0  200px 0 0;
+}
+
+#div2{
+    background-color: white;
+    width: 60%;
+    height:max-content;
+    float: left;
+    margin: 0 0 0 100px;
+    
+    }
+    .pernt{
+margin: 0 20% 0;
+display: inline;
+        
+    }
+    .clear{
+        clear: both;
+
+
+    }

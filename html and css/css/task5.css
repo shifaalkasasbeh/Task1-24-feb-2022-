@@ -29,7 +29,7 @@ text-transform: lowercase;
       width: 80%;
       height: 40%;
      background-color: white;
-
+     margin: 40px 50px 20px;
 }
 
 .d{ 
@@ -41,6 +41,14 @@ text-transform: lowercase;
   
 }
 
+.k{
+  color: black;
+  border:dotted black;
+    width:60%;
+    height: 40%;
+   background-color: white;
+
+}
 .e{
 
    color: rgb(119, 43, 163);
