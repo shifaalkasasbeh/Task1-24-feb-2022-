@@ -1,0 +1,16 @@
+div {    text-transform: capitalize;
+    color: white; 
+     border:solid medium black;
+    width: 60px;
+    height: 30px;
+    background-color: red;
+    float: left;
+   margin: 2px;
+   text-align: center;
+      }
+
+      .a{
+
+display: none;
+
+      }
